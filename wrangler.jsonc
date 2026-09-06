@@ -1,0 +1,10 @@
+{
+  "name": "esport-killer",
+  "main": "server/cloudflare/worker.mjs",
+  "compatibility_date": "2026-09-05",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": { "directory": "cloudflare-dist", "binding": "ASSETS", "run_worker_first": true },
+  "d1_databases": [{ "binding": "DB", "database_name": "esport-killer", "migrations_dir": "server/cloudflare/migrations" }],
+  "observability": { "enabled": true, "head_sampling_rate": 1 },
+  "triggers": { "crons": ["0 4 * * *"] }
+}

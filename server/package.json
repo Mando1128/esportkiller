@@ -1,0 +1,12 @@
+{
+  "name": "pulse-esports-live-server",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@clerk/backend": "^3.17.1",
+    "ws": "^8.18.0"
+  }
+}

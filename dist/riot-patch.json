@@ -1,0 +1,19 @@
+{
+  "source": "Riot Games official patch notes",
+  "patch": "26.17",
+  "pageUrl": "https://www.leagueoflegends.com/en-gb/news/game-updates/league-of-legends-patch-26-17-notes/",
+  "fetchedAt": "2026-09-03T04:15:00.000Z",
+  "changes": [
+    {"champion":"Aurelion Sol","category":"Buff","summary":"Riot describes a follow-up buff after the previous mage adjustments."},
+    {"champion":"Cho'Gath","category":"Buff","summary":"Riot adds early-game damage after recent indirect nerfs."},
+    {"champion":"Graves","category":"Nerf","summary":"Riot reduces power after indirect buffs put him in a strong spot."},
+    {"champion":"Irelia","category":"Buff","summary":"Riot increases late-game carry scaling for the melee AD skirmisher."},
+    {"champion":"LeBlanc","category":"Buff","summary":"Riot restores attack-speed/AP ratio power for AP assassination builds."},
+    {"champion":"Nasus","category":"Nerf","summary":"Riot reduces top-lane power after the stacking shift."},
+    {"champion":"Nocturne","category":"Nerf","summary":"Riot reduces power for a champion it describes as strong across skill levels."},
+    {"champion":"Qiyana","category":"Buff","summary":"Riot supports underwhelming mid-lane performance."},
+    {"champion":"Vayne","category":"Nerf","summary":"Riot lists Vayne among the top-lane nerfs in this patch."},
+    {"champion":"Yasuo","category":"Buff","summary":"Riot includes Yasuo in the melee AD carry buffs."},
+    {"champion":"Yone","category":"Buff","summary":"Riot includes Yone in the melee AD carry buffs."}
+  ]
+}

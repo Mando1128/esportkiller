@@ -1,0 +1,20 @@
+{
+  "name": "Esport Killer",
+  "short_name": "Esport Killer",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07101c",
+  "theme_color": "#10243b",
+  "description": "Esports props, schedules, player history, teams, and patch research.",
+  "icons": [
+    {
+      "src": "assets/esport-killer-logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
